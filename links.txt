@@ -1,0 +1,27 @@
+f248ad2133a4741f7f5627232b6b6224
+
+Base URL: https://api.themoviedb.org/3
+
+movieList-https://api.themoviedb.org/3/movie/now_playing?api_key=f248ad2133a4741f7f5627232b6b6224&language=en-US&page=1
+
+Search-https://api.themoviedb.org/3/search/movie?api_key=f248ad2133a4741f7f5627232b6b6224&query=avtar&include_adult=false&language=en-US&page=1
+
+
+//
+Individual:
+https://api.themoviedb.org/3/movie/{movie_id}?api_key=f248ad2133a4741f7f5627232b6b6224
+
+Now Playing:
+https://api.themoviedb.org/3/movie/now_playing?api_key=f248ad2133a4741f7f5627232b6b6224
+
+Popular:
+https://api.themoviedb.org/3/movie/popular?api_key=f248ad2133a4741f7f5627232b6b6224
+
+Top Rated:
+https://api.themoviedb.org/3/movie/top_rated?api_key=f248ad2133a4741f7f5627232b6b6224
+
+Upcoming: 
+https://api.themoviedb.org/3/movie/upcoming?api_key=f248ad2133a4741f7f5627232b6b6224
+
+Search:
+https://api.themoviedb.org/3/search/movie?api_key=f248ad2133a4741f7f5627232b6b6224&query={movie_name}
