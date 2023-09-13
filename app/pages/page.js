@@ -30,7 +30,7 @@ const MovieList = () => {
               setmovies={setmovies}
               movie={movie}
             />
-          ))}
+          ))} 
         </div>
       </section>
     </main>
